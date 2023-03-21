@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/Animation-Card/static/js/main.a966a2bb.js",
+    "main.js": "/Animation-Card/static/js/main.7ffc65d7.js",
     "static/media/card-background.png": "/Animation-Card/static/media/card-background.032662a2a907475127d7.png",
     "static/media/logo-goit.svg": "/Animation-Card/static/media/logo-goit.e917114d7945c04c85a8946a331d28b6.svg",
     "index.html": "/Animation-Card/index.html",
-    "main.a966a2bb.js.map": "/Animation-Card/static/js/main.a966a2bb.js.map"
+    "main.7ffc65d7.js.map": "/Animation-Card/static/js/main.7ffc65d7.js.map"
   },
   "entrypoints": [
-    "static/js/main.a966a2bb.js"
+    "static/js/main.7ffc65d7.js"
   ]
 }
